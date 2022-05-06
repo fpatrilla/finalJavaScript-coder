@@ -23,7 +23,7 @@ export const eliminarProductoCarrito = (productoId) => {
             showCancelButton: true,
             confirmButtonColor: '#3085d6',
             cancelButtonColor: '#d33',
-            confirmButtonText: 'Si, eliminar!'
+            confirmButtonText: 'Aceptar'
         }).then((result) => {
             if (result.isConfirmed) {
                 botonEliminar.parentElement.remove();
