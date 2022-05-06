@@ -47,7 +47,7 @@ clearLocal.addEventListener('click', () => {
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
-        confirmButtonText: 'Si, vaciarlo!'
+        confirmButtonText: 'Aceptar'
       }).then((result) => {
         if (result.isConfirmed) {
             localStorage.clear();
