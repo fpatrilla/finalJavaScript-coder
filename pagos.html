@@ -34,11 +34,17 @@
                         <br>
                         <br>
                         <div class="row">
-                            
-                            <div class="col-4"><h3>Producto</h3></div>
-                            <div class="col-4"><h3>Precio</h3></div>
-                            <div class="col-4"><h3>Cantidad</h3></div>
+                            <div class="container col-md-12">
+                                <div class="row">
+                                      <div class="col-4">Producto</div>
+                                     <div class="col-4">Precio</div>
+                                     <div class="col-4">Cantidad</div>
+                                </div> 
+                            </div>  
                             <hr>
+                            <div>
+                                
+                            </div>
                             
                         </div>
 
@@ -60,12 +66,20 @@
             <div>
                 <h4 class="precioProducto">Precio total: $<span id="precioTotal"></span></h4>
             </div>
-            <div style="padding-left: 8%;">
-                <a href="index.html"> <buttontype="button" class="btn btn-primary" >Seguir Comprando</button></a>
-
-                <button id="clear" type="button" class="btn btn-danger"> Vaciar Carrito</a></button>
-                <button id="print" type="button" class="btn btn-success">Imprimir Orden</button>
-            </div>
+            <div class="container col-md-12" >
+                <div class="row" >
+                  <div class="col-3">
+                    <a href="index.html"> <button type="button" class="btn btn-primary" >Seguir Comprando</button></a>
+                  </div>
+                  <div class="col-2">
+                    <button id="clear" type="button" class="btn btn-danger"> Vaciar Carrito</button>
+                  </div>
+                  <div class="col-2">
+                    <button id="print" type="button" class="btn btn-success">Imprimir Orden</button>
+                  </div>
+                </div>
+              </div>
+            
     </main>
     <!-- FOOTER -->
     <footer id="footer">

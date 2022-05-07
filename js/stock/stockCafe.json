@@ -4,7 +4,7 @@
         "id": 1,
         "nombre": "Cafe",
         "tipo": "cafeteria",
-        "desc": "Cafe Largo",
+        "desc": "descripcion",
         "precio": 300,
         
         "img": "img/id1.png",
@@ -26,7 +26,7 @@
         "id": 3,
         "nombre": "Te",
         "tipo": "cafeteria",
-        "desc": "Te de diferentes variedades",
+        "desc": "descripcion",
         "precio": 350,
         
         "img": "img/id3.jpg",
@@ -37,7 +37,7 @@
         "id": 4,
         "nombre": "Cortado",
         "tipo": "cafeteria",
-        "desc": "cafe con leche",
+        "desc": "descripcion",
         "precio": 300,
         
         "img": "img/id4.png",
@@ -75,6 +75,26 @@
     },
     {
         "id": 8,
+        "nombre": "cheesecake ",
+        "tipo": "Pasteleria",
+        "desc": "Descripcion",
+        "precio": 190,
+        
+        "img": "img/id9.jpg",
+        "cantidad":1
+    },
+    {
+        "id": 9,
+        "nombre": "cheesecake ",
+        "tipo": "Pasteleria",
+        "desc": "Descripcion",
+        "precio": 190,
+        
+        "img": "img/id9.jpg",
+        "cantidad":1
+    },
+    {
+        "id": 10,
         "nombre": "cheesecake ",
         "tipo": "Pasteleria",
         "desc": "Descripcion",

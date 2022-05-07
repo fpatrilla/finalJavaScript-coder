@@ -9,7 +9,7 @@ export const mostrarProductos = async () => {
 
     productos.forEach(producto => {
         const div = document.createElement('div');
-        div.classList.add('card');
+        div.classList.add('col-md-2');
         div.innerHTML += `<div class="card-image">
                                 <img src=${producto.img}>
                                 <span class="card-title"><h3>${producto.nombre}</h3</span>
