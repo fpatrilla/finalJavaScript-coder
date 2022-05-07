@@ -83,6 +83,26 @@ const prodCafe =
         img: 'img/id9.jpg',
         cantidad:1
     },
+    {
+        id: 9,
+        nombre: "Tostados ",
+        tipo: "Pasteleria",
+        desc: "Descripcion",
+        precio: 190,
+        
+        img: 'img/id10.jpg',
+        cantidad:1
+    },
+    {
+        id: 10,
+        nombre: "Medialunas ",
+        tipo: "Pasteleria",
+        desc: "Descripcion",
+        precio: 190,
+        
+        img: 'img/id11.jpg',
+        cantidad:1
+    },
 
 
 ]

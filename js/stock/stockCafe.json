@@ -85,22 +85,22 @@
     },
     {
         "id": 9,
-        "nombre": "cheesecake ",
+        "nombre": "Tostado ",
         "tipo": "Pasteleria",
         "desc": "Descripcion",
         "precio": 190,
         
-        "img": "img/id9.jpg",
+        "img": "img/id10.jpg",
         "cantidad":1
     },
     {
         "id": 10,
-        "nombre": "cheesecake ",
+        "nombre": "Medialunas ",
         "tipo": "Pasteleria",
         "desc": "Descripcion",
         "precio": 190,
         
-        "img": "img/id9.jpg",
+        "img": "img/id11.jpg",
         "cantidad":1
     }
 
