@@ -122,7 +122,7 @@ select {
   transition: all .5s;
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
-  width: 60%;
+  width: 50%;
  
   
 }
@@ -175,9 +175,6 @@ select {
   
   font-family: Georgia, 'Times New Roman', Times, serif;
  
-
-
- 
   
 }
 
@@ -202,7 +199,7 @@ select {
 }
 
 .card-carrito{
-  width: 60%;
+  width: 25%;
 }
 
 

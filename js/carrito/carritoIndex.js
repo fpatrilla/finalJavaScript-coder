@@ -74,6 +74,7 @@ const renderProductosCarrito = (productoId) => {
                           <div class="col-2"><p>${producto.precio}</p></div>
                           <div class="col-2"> <p id=cantidad${producto.id}>${producto.cantidad}</p></div>
                           <div class="col-2"><button id= eliminar${producto.id} class="boton-eliminar"><i class="fas fa-trash-alt"></i></button></div>
+                          
                         </div>
                       </div>   
                   `
